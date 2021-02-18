@@ -1,0 +1,141 @@
+// .v-m {
+//   img{
+//     width: 220px;
+//   }
+//   .router-box{
+//     display: initial;
+//     float: right;
+//   }
+// }
+.flex1{
+  flex: 1;
+}
+.bacF8{
+  
+background: #F8FBFE;
+}
+.row3{
+  position: relative;
+  display: flex;
+  padding: 16px 163px;
+  line-height: 20px;
+  font-size: 20px;
+  color: #333333;
+.col50{
+  width: 50%;
+}
+.col33{
+  padding: 0 10px;
+  width: 33%;
+}
+  .tit3{
+  color: #4A4A4A;
+  font-size: 24px;
+    span{
+      color: #BC0900;
+    }
+  }
+  .lis{
+    width: 0px;
+    height: 24px;
+    border: 1px solid #E9E9E9;
+    opacity: 1;
+    margin: 0 15px;
+  }
+  .yd{
+    position: relative;
+    top: -2px;
+    margin: 0 15px 0 0;
+  }
+  .more3{
+    float: right;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 16px;
+    font-size: 12px;
+    width: 42px;
+    height: 16px;
+    background: #D40A00;
+    opacity: 1;
+    border-radius: 10px;
+  }
+  .t3-box{
+    border: 2px solid #D9DDE4;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    color: #1B2D54;
+    font-size: 18px;
+  }
+  .list a{
+    font-size: 16px;
+  }
+  .list li{
+        padding: 8px 0;
+  }
+  .title3{
+    padding-left: 0px;
+    background: none;
+    height: 48px;
+    margin-bottom: 28px;
+  }
+  .title3 span.active {
+    font-size: 24px;
+    color: #083187;
+    font-weight: bold;
+}
+
+
+.list-sep{
+  padding-left: 20px;
+}
+.title span.active:before {
+    content: "";
+    background: #083187;
+}
+.inline li{
+  line-height: 24px;
+  width: 50%;
+  display: inline-block;
+}
+.inline li.new a {
+    padding-left: 20px;
+}
+.bfb{
+  position: absolute;
+  top: 66%;
+  left: 10.5%;
+  z-index: 9;
+}
+.jq{
+  position: absolute;
+  top: 85.7%;
+  left: 10.5%;
+  z-index: 9;
+}
+}
+.footer3 {
+    background: var(--themeColor);
+    color: #fff;
+    .bq{
+     font-size: 14px;
+     padding: 13px 580px;
+    }
+}
+.back3{
+  position: relative;
+  .show-detail{
+    top: 81%;
+    right: 10%;
+    position: absolute;
+    display: inline-block;
+    width: 160px;
+    height: 52px;
+    line-height: 52px;
+    background: #BC0900;
+    opacity: 1;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+  }
+}

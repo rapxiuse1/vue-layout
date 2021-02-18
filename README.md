@@ -1,2 +1,26 @@
-# vue-layout
- 基于Vue的自定义布局配置项目
+# pcfy
+
+## Project setup
+```
+yarn install
+cnpm install image-webpack-loader
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
